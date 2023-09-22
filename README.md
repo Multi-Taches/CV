@@ -29,6 +29,8 @@ J'ai des compétences en SISR
 - Agents économiques
 ### Autre
 - KDEnLive
+- JMOT
+- Gantt
 - Photoshop
 ### Langues
 - Anglais Niveau B1
