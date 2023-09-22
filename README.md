@@ -24,6 +24,8 @@ J'ai des compétences en SISR
 ### Systèmes embrarqués
 - Arduino
 - Raspberry (Pico | Pi)
+### Cybersécurité
+- Données à caracère personnel
 ### Economie Droit Management
 - RGPD
 - Agents économiques
