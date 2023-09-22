@@ -31,6 +31,8 @@ J'ai des compétences en SISR
 - Agents économiques
 ### Autre
 - KDEnLive
+- OBS
+- FinalCut
 - JMOT
 - Gantt
 - Photoshop
