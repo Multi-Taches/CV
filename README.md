@@ -4,28 +4,30 @@ CV de Hedi Grimont - Etudiant au lycée Turgot en BTS SIO & Cybersécurité
 J'ai des compétences en SISR, orienté systèmes depuis plusieurs années en autodidacte.
 ### Développement
 - SQL (en cours d'étude)
-- HTML5
-- CSS
+- HTML (en cours d'étude)
+- CSS (en cours d'étude)
+- PHP (en cours d'étude)
 - Python
 - Git
-- C
+- C (Arduino et systèmes embarqués)
+- Visual Studio Code
 ### Systèmes
-- Windows (toutes générations)
-- Linux
-- macOS (toutes généreations)
+- Administration Windows (PowerShell)
+- Administration Linux (Bash)
+- macOS (Zsh)
 - OS/2 Warp | ArcaOS (débutant)
-- MS-DOS
+- MS-DOS|FreeDOS
 ### Virtualisation
 - VMware (Workstation | ESXi)
-- VirtualBox
-- qEMU
+- VirtualBox (Administration des machines virtuelles en ligne de commande)
+- qEMU | KVM
 ### Réseau
 - CISCO Packet Tracer
 ### Systèmes embrarqués
 - Arduino
 - Raspberry (Pico | Pi)
 ### Cybersécurité
-- Données à caracère personnel
+- Données à caracère personnel (Atelier RGPD)
 ### Economie Droit Management
 - RGPD
 - Agents économiques
@@ -35,7 +37,7 @@ J'ai des compétences en SISR, orienté systèmes depuis plusieurs années en au
 - FinalCut
 - JMOT
 - GanttProject
-- Photoshop
+- Photoshop|
 ### Langues
 - Anglais Niveau B1
 - Espagnol Niveau B1
