@@ -1,5 +1,7 @@
 # CV
 CV de Hedi Grimont - Etudiant au lycée Turgot en BTS SIO & Cybersécurité
+## Etudes et diplômes
+- Baccalauréat Technologique STI2D au lycée Gustave Monod, Enghien-les-Bains
 ## Compétences
 J'ai des compétences en SISR, orienté systèmes depuis plusieurs années en autodidacte.
 ### Développement
